@@ -1,0 +1,8 @@
+[package]
+name = "rust-test"
+version = "0.1.0"
+authors = ["Michael Walczyk <michael.walczyk@obscuradigital.com>"]
+
+[dependencies]
+image = "0.17.0"
+num = "0.1.40"
